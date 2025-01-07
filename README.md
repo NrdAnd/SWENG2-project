@@ -6,6 +6,7 @@
 ### Delivery Dates
 
 - RASDv1.0 : 22/12/2024
+- DDv1.0 : 07/01/2025
 
 ### Collaborators
 
