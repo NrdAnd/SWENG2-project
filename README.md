@@ -1,7 +1,7 @@
-# NardiPesaturoPinessi
+# Software Engineering 2
 
 
-## SW2 Project 2024/2025
+## Project 2024/2025
 
 ### Delivery Dates
 
