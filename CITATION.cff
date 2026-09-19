@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite its authors and repository."
+title: "Students&Companies: Requirements, Design and Alloy Model"
+authors:
+  - family-names: Nardi
+    given-names: Andrea
+  - family-names: Pesaturo
+    given-names: Christian Giovanni
+  - family-names: Pinessi
+    given-names: Andrea
+repository-code: "https://github.com/NrdAnd/SWENG2-project"
+preferred-citation:
+  type: generic
+  title: "Students&Companies: Requirements, Design and Alloy Model"
+  authors:
+    - family-names: Nardi
+      given-names: Andrea
+    - family-names: Pesaturo
+      given-names: Christian Giovanni
+    - family-names: Pinessi
+      given-names: Andrea
+  year: 2025
+  url: "https://github.com/NrdAnd/SWENG2-project"
